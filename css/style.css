@@ -1,6 +1,7 @@
 * {
-    color: red;
+    color: aqua;
+    background-color: black;
 }
 h1 {
-    color: blue;
+    color-scheme: purple;
 }
